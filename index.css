@@ -103,9 +103,9 @@ section{
 .slider{
     width: 1000px;
     height: 400px;
-    background-image: url(banner.jpeg);
+    background-image: url();
     margin: 100px auto;
-    animation: slide 20s infinite;
+    animation: slide 3.0s infinite;
 }
 @keyframes slide{
     25%{
